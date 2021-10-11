@@ -5,7 +5,7 @@ public class App {
         try {
             while (true) {
                 Thread.sleep(2 * 1000);
-                System.out.println("Counter: " + count++);
+                System.out.println("Seq: " + count++);
     
             }
         }
